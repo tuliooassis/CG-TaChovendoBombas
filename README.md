@@ -30,8 +30,10 @@
 - ESC sai do jogo
 - R reinicia
 - O personagem começa com 3 vidas e se continuar vivo até o final do tempo vence!
+
 ## Screenshot
 > Segue mais na pasta [Screenshot](./Screenshot).
+
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/1%20Tela%20inicial.png)
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/3%20Selecionar%20Personagem.png)
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/5%20Pulo.png)
