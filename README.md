@@ -20,6 +20,7 @@
 > - Linux **(Terminal)**
 >> Abra o terminal e vá na pasta raiz do TP
 >> Faça uso dos seguintes comandos:
+>>> - make install: instalar bibliotecas listadas acimas
 >>> - make all: compilar
 >>> - make run: rodar
 >>> - make clean: limpar os arquivos criados
@@ -29,8 +30,8 @@
 > ESC sai do jogo
 > R reinicia
 > O personagem começa com 3 vidas e se continuar vivo até o final do tempo vence!
-
-####Screenshot
+### Screenshot
+> Segue mais na pasta [Screenshot](./Screenshot).
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/1%20Tela%20inicial.png)
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/3%20Selecionar%20Personagem.png)
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/5%20Pulo.png)
