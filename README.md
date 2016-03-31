@@ -31,10 +31,10 @@
 > O personagem começa com 3 vidas e se continuar vivo até o final do tempo vence!
 
 ####Screenshot
-![50](https://raw.githubusercontent.com/tuliooassis/CG-TaChovendoBombas/master/1%20Tela%20inicial.png)
-![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/3%20Selecionar%20Personagem.png)
-![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/5%20Pulo.png)
-![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/7%20Fase%202.png)
+![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/1%20Tela%20inicial.png)
+![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/3%20Selecionar%20Personagem.png)
+![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/5%20Pulo.png)
+![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/7%20Fase%202.png)
 
 
 ### Bibliografia e Ibagens
