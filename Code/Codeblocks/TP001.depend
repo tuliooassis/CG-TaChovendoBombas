@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1459390202 source:/home/tulio/Área de Trabalho/TP001/main.cpp
+	"bibliotecas.h"
+	"iniciar.h"
+	"personagem.h"
+	"jogo.h"
+	"barra_tempo_progresso.h"
+	"cenarios.h"
+	"inimigos.h"
+	"powerup.h"
+
+1459374714 /home/tulio/Área de Trabalho/TP001/texturas.h
+
+1458839787 source:/home/tulio/Área de Trabalho/TP001/texturas.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	"texturas.h"
+
+1459374722 source:/home/tulio/Área de Trabalho/TP001/texturas.cpp
+	"bibliotecas.h"
+	"texturas.h"
+
+1459177025 /home/tulio/Área de Trabalho/TP001/bibliotecas_linux.h
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<SFML/Audio.hpp>
+
+1459379110 /home/tulio/Área de Trabalho/TP001/structs.h
+	"bibliotecas.h"
+
+1459303480 /home/tulio/Área de Trabalho/TP001/bibliotecas.h
+	"bibliotecas_linux.h"
+
+1459375003 /home/tulio/Área de Trabalho/TP001/personagem.h
+
+1459384242 /home/tulio/Área de Trabalho/TP001/jogo.h
+
+1459375274 /home/tulio/Área de Trabalho/TP001/tempo.h
+
+1459386186 source:/home/tulio/Área de Trabalho/TP001/personagem.cpp
+	"bibliotecas.h"
+	"personagem.h"
+	"jogo.h"
+	"barra_tempo_progresso.h"
+	"iniciar.h"
+
+1459383077 source:/home/tulio/Área de Trabalho/TP001/barra_tempo_progresso.cpp
+	"bibliotecas.h"
+	"barra_tempo_progresso.h"
+	"jogo.h"
+	"inimigos.h"
+
+1459376400 /home/tulio/Área de Trabalho/TP001/barra_tempo_progresso.h
+
+1459383070 /home/tulio/Área de Trabalho/TP001/objeto.h
+
+1459376769 source:/home/tulio/Área de Trabalho/TP001/cenarios.cpp
+	"bibliotecas.h"
+	"cenarios.h"
+	"jogo.h"
+
+1459377944 /home/tulio/Área de Trabalho/TP001/cenarios.h
+
+1459383070 source:/home/tulio/Área de Trabalho/TP001/inimigos.cpp
+	"bibliotecas.h"
+	"inimigos.h"
+	"iniciar.h"
+	"jogo.h"
+	"barra_tempo_progresso.h"
+	"personagem.h"
+
+1459384405 /home/tulio/Área de Trabalho/TP001/inimigos.h
+
+1459381941 /home/tulio/Área de Trabalho/TP001/powerup.h
+
+1459384515 source:/home/tulio/Área de Trabalho/TP001/iniciar.cpp
+	"bibliotecas.h"
+	"inimigos.h"
+	"iniciar.h"
+	"jogo.h"
+	"barra_tempo_progresso.h"
+	"personagem.h"
+
+1459384506 /home/tulio/Área de Trabalho/TP001/iniciar.h
+
+1459383093 source:/home/tulio/Área de Trabalho/TP001/powerup.cpp
+	"bibliotecas.h"
+	"powerup.h"
+	"inimigos.h"
+	"barra_tempo_progresso.h"
+	"iniciar.h"
+	"jogo.h"
+	"personagem.h"
+
