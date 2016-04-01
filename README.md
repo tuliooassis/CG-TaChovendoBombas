@@ -18,12 +18,12 @@
 > Logo após vá em bibliotecas.h e selecione a biblioteca.
 
  - Linux **(Terminal)**
- Abra o terminal e vá na pasta raiz do TP
- Faça uso dos seguintes comandos:
- - make install: instalar bibliotecas listadas acimas
- - make all: compilar
- - make run: rodar
- - make clean: limpar os arquivos criados
+> Abra o terminal e vá na pasta raiz do TP
+> Faça uso dos seguintes comandos:
+> - make install: instalar bibliotecas listadas acimas
+> - make all: compilar
+> - make run: rodar
+> - make clean: limpar os arquivos criados
 
 ## The Game
 - Mova o personagem com as setas  (Pulo ↑) (Andar ← → )
@@ -39,8 +39,28 @@
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/5%20Pulo.png)
 ![alt tag](https://github.com/tuliooassis/CG-TaChovendoBombas/blob/master/Screenshot/7%20Fase%202.png)
 
+## Itens Implementados
+### Adicionais
+> - Texturas animadas
 
-## Bibliografia e Ibagens
+>> - Personagem andando
+>> - Personagem morrendo
+>> - Objetos explodindo
+
+> - Tipos de Objetos / Objetos espertos / Power-ups
+
+>> - Bomba (comum): cai em velocidade constante
+>> - TNT (chefão): persegue o jogador
+>> - Fogueira (comum): anda no chão (fogueira anda?)
+>> - Flash (power-up): o jogador pode ganhar vida ou velocidade e ele desce na diagonal
+
+> - Salto do personagem (↑)
+> - Manter razão de aspecto (créditos prof =D)
+> - Fases: existem duas fases, uma somente com bombas, e outra com fogueira e TNT
+> - Telas: Loading, Menu, Configurações, Créditos, Gameover, Pause, Contagem Regressiva, Win, outras
+> - Sons
+
+## Bibliografia
 Sons: [SoundBible](http://soundbible.com/tags-game.html)
 
 Algumas sprites: [GameArt2D](http://www.gameart2d.com)
