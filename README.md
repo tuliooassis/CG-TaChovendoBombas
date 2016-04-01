@@ -58,7 +58,8 @@
 > - Manter razão de aspecto (créditos prof =D)
 > - Fases: existem duas fases, uma somente com bombas, e outra com fogueira e TNT
 > - Telas: Loading, Menu, Configurações, Créditos, Gameover, Pause, Contagem Regressiva, Win, outras
-> - Sons
+> - Sons 
+> - Video [Youtube](https://youtu.be/xFSBuIq7ptQ)
 
 ## Bibliografia
 Sons: [SoundBible](http://soundbible.com/tags-game.html)
